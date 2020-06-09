@@ -17,6 +17,7 @@ public class JustAdded {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("adding for demo");
+        System.out.println("hello");
     }
     
 }
