@@ -19,5 +19,8 @@ public class JustAdded {
         System.out.println("adding for demo");
         System.out.println("hello");
     }
+    public void practise(){
+        System.out.println("addthis new line");
+    }
     
 }
